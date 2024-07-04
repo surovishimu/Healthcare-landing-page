@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Expertise and Compassion Combined",
+      "details": "I can't thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.",
+      "name": "Sarah D",
+      "profession": "IT Professional",
+      "image": "https://i.ibb.co/sFrvxPN/girl.png",
+      "ratings": 5
+    },
+    {
+      "id": 2,
+      "title": "Caring and Professional Team",
+      "details": "The healthcare team was not only highly professional but also incredibly caring. They made me feel comfortable and supported throughout my recovery.",
+      "name": "John S",
+      "profession": "Teacher",
+      "image": "https://i.ibb.co/c6TPkDF/office-man.png",
+      "ratings": 4
+    },
+    {
+      "id": 3,
+      "title": "Compassionate Caregivers",
+      "details": "From the nurses to the doctors, everyone showed such compassion and dedication. They treated me with kindness and ensured I received the best care possible.",
+      "name": "Emily W",
+      "profession": "Writer",
+      "image": "https://i.ibb.co/r0pfckD/man-3.png",
+      "ratings": 5
+    },
+    {
+      "id": 4,
+      "title": "Exceptional Medical Expertise",
+      "details": "I was impressed by the medical expertise displayed by the entire healthcare team. They knew exactly how to handle my condition and provided effective treatment.",
+      "name": "Michael L",
+      "profession": "Engineer",
+      "image": "https://i.ibb.co/NysYVH7/man-2.png",
+      "ratings": 5
+    },
+    {
+      "id": 5,
+      "title": "Supportive and Knowledgeable Staff",
+      "details": "The staff not only supported me through my treatment but also provided valuable information and resources. I felt well-informed and cared for.",
+      "name": "Anna K",
+      "profession": "Artist",
+      "image": "https://i.ibb.co/nbTkdKP/man-1.png",
+      "ratings": 4
+    },
+    {
+      "id": 6,
+      "title": "Grateful for the Care Received",
+      "details": "I am deeply grateful for the care I received from the healthcare team. They went above and beyond to ensure my comfort and recovery.",
+      "name": "David M",
+      "profession": "Accountant",
+      "image": "https://i.ibb.co/SXffbQM/human.png",
+      "ratings": 5
+    },
+    {
+      "id": 7,
+      "title": "Warm and Friendly Environment",
+      "details": "The healthcare facility provided a warm and friendly environment. It made a significant difference in my healing process.",
+      "name": "Jessica P",
+      "profession": "Sales Manager",
+      "image": "https://i.ibb.co/zP2FZBg/man.png",
+      "ratings": 4
+    },
+    {
+      "id": 8,
+      "title": "Efficient and Compassionate Care",
+      "details": "The healthcare team was not only efficient but also compassionate. They ensured everything ran smoothly during my treatment.",
+      "name": "Mark H",
+      "profession": "Consultant",
+      "image": "https://i.ibb.co/7RFnTQt/woman.png",
+      "ratings": 4
+    },
+    {
+      "id": 9,
+      "title": "Professionalism at Its Best",
+      "details": "I experienced professionalism at its best from the healthcare professionals. They were knowledgeable and attentive throughout.",
+      "name": "Sophia G",
+      "profession": "Lawyer",
+      "image": "https://i.ibb.co/NysYVH7/man-2.png",
+      "ratings": 5
+    }
+  ]
+  
